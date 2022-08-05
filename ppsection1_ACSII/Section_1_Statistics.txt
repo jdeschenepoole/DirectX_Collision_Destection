@@ -1,0 +1,20 @@
+part_a: 1 file; 507,528 vertices; 747,948 triangles; 40.8 MB
+
+part_b: 1 file; 260,187 vertices; 341,920 triangles; 19.5 MB
+
+part_c: 1 file; 363,035 vertices; 461,140 triangles; 27.5 MB
+
+part_d: 1 file; 314,275 vertices; 422,700 triangles; 24.2 MB
+
+part_e: 1 file; 587,949 vertices; 841,756 triangles; 46.9 MB
+
+part_f: 1 file; 108,227 vertices; 141,180 triangles; 7.90 MB
+
+part_g: 1 file; 12,832 vertices; 16,344 triangles; 914 KB
+
+part_h: 1 file; 226,640 vertices; 315,360 triangles; 17.4 MB
+
+part_i: 1 file; 108,227 vertices; 141,180 triangles; 8.00 MB
+
+
+Total: 9 files; 2,488,900 vertices; 3,429,528 triangles; 193.1 MB
